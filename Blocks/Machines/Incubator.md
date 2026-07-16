@@ -3,16 +3,9 @@
 [[Nutrient Medium]]
 [[Catalyst Vial]]
 [[Virus Sample]]
-# Incubator
 
 The **Incubator** is a laboratory block that allows players to grow and duplicate virus samples.  
 It uses a brewing‑stand‑style interface with one top slot and three bottom slots, turning raw materials into infection‑carrying items.
-
----
-
-## Obtaining
-
-The Incubator is a crafted block. (Recipe to be defined; currently available via Creative inventory.)
 
 ---
 
