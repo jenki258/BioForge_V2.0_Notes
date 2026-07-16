@@ -1,6 +1,7 @@
 #Blocks 
 [[Live Culture Vial]]
 [[Nutrient Medium]]
+[[Catalyst Vial]]
 # Incubator
 
 The **Incubator** is a laboratory block that allows players to grow and duplicate virus samples.  
@@ -40,23 +41,6 @@ The incubator automatically detects what you have placed in the top slot and cho
 - **All bottom slots** are processed **simultaneously** each time the progress bar completes.  
 - If the top item is a Catalyst Vial with `"RANDOM"`, the pathogen is randomly selected from all available mappings **per batch**.  
 - If the top item is a blood sample, the infection must be a true infection strain (containing semicolon‑separated symptoms) – plain blood data will not start the process.
-
----
-
-## Creating a Catalyst Vial
-
-A Catalyst Vial is the starting point for growing a completely new virus strain.
-
-1. Obtain an empty **Catalyst Vial**.  
-2. Hold it in your main hand, and the desired **reagent** in your off‑hand.  
-3. Right‑click – the vial locks onto the corresponding pathogen (e.g. Red Mushroom → FUNGI, Spider Eye → VIRUS).  
-4. The vial now shows the pathogen name and the number of charges (default 1).
-
-Using a **Nether Star** as the reagent sets the vial to `"RANDOM"` – the pathogen will be chosen randomly when the incubator runs.
-
-The valid reagent‑to‑pathogen mappings are displayed in the Catalyst Vial’s tooltip when it is empty.
-
-You can also view all possible mappings in the JSON file `data/bioforge/incubator/catalyst_mappings.json`.
 
 ---
 
@@ -100,33 +84,3 @@ Every item involved in the incubator workflow has detailed tooltips explaining i
 - **Dirty Culture Vial** → “Clean with Ethanol or Wipes…”
 
 This ensures a new player can learn the entire workflow simply by hovering over the items.
-
----
-
-## Configuration (for pack makers)
-
-The incubator’s catalyst mappings are defined in `data/bioforge/incubator/catalyst_mappings.json`.  
-Example:
-
-```json
-{
-  "mappings": [
-    { "item": "minecraft:red_mushroom", "pathogen": "FUNGI" },
-    { "item": "minecraft:brown_mushroom", "pathogen": "FUNGI" },
-    { "item": "minecraft:rotten_flesh", "pathogen": "BACTERIA" },
-    { "item": "minecraft:spider_eye", "pathogen": "VIRUS" }
-  ]
-}
-```
-
-The random symptom ranges for each pathogen are taken directly from `BioForgeSymptoms` (the `getDefaultRanges()` method), so adding a new symptom to the code automatically makes it appear on virus samples.
-
----
-
-## Technical Notes
-
-- `IncubatorBlockEntity` manages the 4‑slot item handler and the three processing modes.  
-- `IncubatorMenu` mirrors the brewing‑stand layout and provides shift‑click support.  
-- The progress bar is rendered vertically (top‑down) in `IncubatorScreen`.  
-- All infection data is written and read using `NbtObfuscator` for consistency with other items.  
-- The `StrainData` class is used to generate random strains with all known symptoms.  
