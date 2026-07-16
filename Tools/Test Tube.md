@@ -7,9 +7,6 @@ Unlike the Blood Slide (a permanent record), the Test Tube is a **processable** 
 
 ## Obtaining
 
-### Empty Tube
-- Currently available via the Creative inventory or JEI. (A crafting recipe can be added if desired.)
-
 ### Filling with Blood
 1. Fill a **Syringe** or **Needle** with blood (right‑click air to draw from yourself, or left‑click a mob).  
 2. Hold the filled tool in your off‑hand and an **empty Tube** in your main hand.  

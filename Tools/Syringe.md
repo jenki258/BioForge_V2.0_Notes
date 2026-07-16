@@ -1,16 +1,8 @@
 #Tools 
 [[Test Tube]]
-# Syringe
 
 The **Syringe** is a reusable medical tool that can draw, store, and inject blood.  
 It also carries an **infection memory** – if the syringe becomes contaminated with a blood‑borne disease, it can transmit that infection to any future target.
-
----
-
-## Obtaining
-
-- Crafted (recipe to be defined; currently available in the Creative inventory).  
-- The syringe has **durability in the form of uses** – a fresh syringe can hold up to 4 doses of blood. Once all doses are consumed, the syringe is emptied but not destroyed.
 
 ---
 
