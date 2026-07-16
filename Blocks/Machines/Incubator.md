@@ -87,7 +87,6 @@ They can be **filled** in the Incubator (Culture mode or Blood Duplication mode)
 - Transfer the infection into a **Syringe** (right‑click a filled syringe with the vial).  
 - Infect **food** and **water bottles/potions** (right‑click them with the vial).  
 - Inoculate a **Petri Dish** (right‑click a Petri Dish block with the vial).  
-- Fill a **Blood Tube** with a fake blood sample carrying the infection.
 
 After any of these uses, the vial becomes a **Dirty Culture Vial**, which must be cleaned with **Ethanol** or **Wipes** before it can be reused.
 
@@ -95,7 +94,7 @@ After any of these uses, the vial becomes a **Dirty Culture Vial**, which must b
 
 ## Blood Duplication
 
-If you already have a blood sample that carries an infection (e.g., a syringe full of infected blood, a contaminated bone marrow, or a Blood Slide), you can place it directly in the top slot of the Incubator along with empty Live Culture Vials in the bottom slots.
+If you already have a blood sample that carries an infection (e.g. bone marrow, blood tube), you can place it directly in the top slot of the Incubator along with empty Live Culture Vials in the bottom slots.
 
 This will **duplicate the exact infection strain** from the blood sample into all the vials, consuming the original blood item.
 
