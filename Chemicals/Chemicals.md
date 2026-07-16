@@ -1,2 +1,3 @@
 #Chemicals 
 [[Decalcification Fluid]]
+[[Ethanol]]
