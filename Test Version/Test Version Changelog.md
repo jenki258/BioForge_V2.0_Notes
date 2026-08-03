@@ -84,5 +84,4 @@ This records the completed work represented by the current BioForge V2 test sour
 - Removed Java source comments as requested.
 - Directly compiled all 225 Java files with Java 17 without Gradle.
 - Validated bundled JSON syntax.
-- Recorded remaining runtime verification in [[Testing Checklist]].
 

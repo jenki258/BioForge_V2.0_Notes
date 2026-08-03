@@ -155,13 +155,11 @@ At the time this page was written:
 - Gradle was intentionally not used for the last validation pass.
 - A full in-game single-player and dedicated-server smoke test is still required.
 
-Compilation proves that the code links at build time; it does not prove every GUI, recipe, network packet, resource texture, or persistence path behaves correctly in Minecraft. Use [[Testing Checklist]] before calling the test version release-ready.
-
+Compilation proves that the code links at build time; it does not prove every GUI, recipe, network packet, resource texture, or persistence path behaves correctly in Minecraft.
 ## Related pages
 
 - [[Integrated Gameplay Loop]]
 - [[Test Version Changelog]]
-- [[Testing Checklist]]
 - [[Research Systems]]
 - [[BioForge Command Reference]]
 
