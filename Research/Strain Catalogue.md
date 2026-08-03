@@ -1,4 +1,4 @@
-# Strain Catalogue
+#Extra 
 
 The catalogue gives an infection a stable research identity and optional public name without exposing every internal parameter.
 
@@ -48,5 +48,3 @@ The Live Culture Vial tooltip communicates filled/catalogued status and directs 
 
 - [[Integrated Gameplay Loop]]
 - [[Vaccines and Immunity]]
-- [[Testing Checklist]]
-

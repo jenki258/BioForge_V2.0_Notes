@@ -1,4 +1,4 @@
-# BioForge Command Reference
+#Commands 
 
 This is the current test-build command map. Most development/research operations require permission level 2. Use Brigadier suggestions for exact optional branches and loaded resource IDs.
 
