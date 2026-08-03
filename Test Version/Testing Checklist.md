@@ -126,5 +126,5 @@ This is the release-readiness checklist for the current test version. Mark a box
 
 ## Sign-off rule
 
-The build is ready for wider testing when all critical item-loss, duplication, networking, exact-strain binding, and persistence checks pass. Cosmetic issues may be documented; data loss, disclosure bypasses, cure bypasses, and duplication cannot.
+The build is ready for wider testing when all critical item-loss, duplication, networking, exact-strain binding, and persistence checks pass. Cosmetic issues may be documented in milanote; data loss, disclosure bypasses, cure bypasses, and duplication cannot.
 
