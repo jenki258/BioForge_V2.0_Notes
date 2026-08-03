@@ -13,8 +13,8 @@ A **Writable Book** can also be used to append the findings directly into a book
 |--------|--------|
 | **Right‑click on a living entity** | Assigns that entity as the current patient. Clears any previous session data. |
 | **Right‑click on air (no target)** | Assigns yourself as the patient. |
-| **Right‑click while holding Paper in the other hand** | Prints a **Medical Report** containing all recorded findings. The Paper is consumed. |
-| **Right‑click while holding a Writable Book in the other hand** | Appends a plain‑text summary of the recorded findings to the book (one page). The clipboard is cleared afterward. |
+| **Right‑click while holding Paper in the other hand** | Prints a **Medical Report** containing the recorded findings. The Paper is consumed and the source Clipboard data remains available. |
+| **Right‑click while holding a Writable Book in the other hand** | Appends a plain‑text summary to the book without clearing the Clipboard or opening the book GUI. |
 | **Shift + Right‑click** | Clears the clipboard (resets patient and all stored data). |
 | **Right‑click on a clipboard that already contains data** | Reactivates the session – resumes working with that stored patient. |
 
@@ -68,7 +68,7 @@ You do **not** need to manually write anything; simply use the tool on the assig
 
 If you hold a **Writable Book** in your off‑hand and right‑click the Clipboard, a plain‑text summary of all recorded findings is **appended** to the book (as a new page).  
 The text is localised according to your game language and contains the same information as the Medical Report tooltip.  
-The clipboard is cleared after the operation.
+The Clipboard remains intact after the operation, and the Book and Quill GUI is suppressed during the transfer.
 
 ---
 

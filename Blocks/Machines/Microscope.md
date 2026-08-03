@@ -97,3 +97,15 @@ To make a new item compatible with the microscope:
 4. Reload the data packs with `/reload`.
 
 No Java code changes are needed. The microscope will automatically accept the new item and show its configured symptoms.
+
+---
+
+## Current test version: research integration
+
+- Unknown Gene Imprints are identified through Microscope analysis rather than revealing their target during extraction.
+- Symptom targets use localized names instead of raw IDs.
+- Dedicated button textures are supported by the current GUI.
+- Title and Inventory text color matches the Centrifuge/Incubator visual language.
+- The Microscope remains the information-reveal step for hidden genetic targets used by directed vaccines.
+
+See [[CRISPR and Vaccine Maker]] and [[Integrated Gameplay Loop]].

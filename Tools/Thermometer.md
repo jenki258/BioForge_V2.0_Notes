@@ -36,3 +36,8 @@ These temperature extremes come from the target’s `InfectionData` (symptoms li
 - `item.bioforge.thermometer.status_ready` - “✔ Ready to use”
 - `item.bioforge.thermometer.status_used` - “✘ Needs shaking”
 - Tooltip explains: shake, use on self, use on mob (shift+right‑click).
+
+### Current test version
+
+- Swinging or preparing the Thermometer cannot break blocks.
+- A completed reading is written into the active Clipboard session for the matching patient.

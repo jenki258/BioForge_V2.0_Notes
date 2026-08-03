@@ -43,3 +43,15 @@ The incubator automatically detects what you have placed in the top slot and cho
 If you already have a blood sample that carries an infection (e.g. bone marrow, blood tube), you can place it directly in the top slot of the Incubator along with empty Live Culture Vials in the bottom slots.
 
 This will **duplicate the exact infection strain** from the blood sample into all the vials, consuming the original blood item.
+
+---
+
+## Current test version: JSON and JEI
+
+Incubator behavior is now selected from reloadable `bioforge:incubator` recipes instead of a fixed Java-only list. Recipes define the primary and secondary ingredients, output, operation, processing time, primary item cost, and catalyst charge cost. Compatible recipes still use one primary slot and up to three secondary/output positions.
+
+Bundled examples cover generation from a Catalyst Vial plus Nutrient Medium and cloning supported infected material. JEI displays the loaded Incubator recipes, including data-pack additions. Catalyst-to-pathogen/source mappings remain reloadable JSON.
+
+When this section conflicts with the older mode table above, the loaded recipe JSON is authoritative.
+
+See [[JSON and Addon Support]] and [[Integrated Gameplay Loop]].

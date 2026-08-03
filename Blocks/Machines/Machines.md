@@ -2,3 +2,4 @@
 [[Centrifuge]]
 [[Microscope]]
 [[Incubator]]
+[[Vaccine Maker]]

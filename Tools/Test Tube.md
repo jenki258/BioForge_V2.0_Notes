@@ -30,6 +30,9 @@ The Tube stores the following data (all obfuscated via `NbtObfuscator`):
 
 ## Usage
 
+### Returning Blood to a Syringe
+Use a filled Test Tube with an empty Syringe, or a Syringe containing compatible blood, to move the sample back into the Syringe. Donor/blood data is preserved and an infected tube infects the receiving Syringe. Incompatible blood is rejected.
+
 ### Centrifuge
 Place the filled Tube in a **Centrifuge** that has a valid recipe using `"input": "bioforge:tube"`.  
 The centrifuge will process the tube and randomly produce either a **Cell Pellet** or a **Plasma Sample**, copying all blood data and infection to the output.
