@@ -120,7 +120,6 @@ Immunity expires and strains can change. The loop returns to diagnosis rather th
 
 ## Related pages
 
-- [[BioForge V2 Test Version Overview]]
 - [[CRISPR and Vaccine Maker]]
 - [[Vaccines and Immunity]]
 - [[Mutations]]

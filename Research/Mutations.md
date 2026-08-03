@@ -1,4 +1,4 @@
-# Mutations
+#Mutations
 
 Mutations are reloadable definitions that change how an active infection behaves. They are stored on the infection, evaluated on the server, and can produce compound behavior when several coexist.
 
