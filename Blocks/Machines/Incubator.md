@@ -54,4 +54,4 @@ Bundled examples cover generation from a Catalyst Vial plus Nutrient Medium and 
 
 When this section conflicts with the older mode table above, the loaded recipe JSON is authoritative.
 
-See [[JSON and Addon Support]] and [[Integrated Gameplay Loop]].
+See [[JSON and Addon Support]].

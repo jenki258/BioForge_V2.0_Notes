@@ -4,7 +4,6 @@ This folder describes the connected BioForge V2 research layer.
 
 ## Pages
 
-- [[Integrated Gameplay Loop]] — complete player journey.
 - [[Mutations]] — mutation behavior and interaction rules.
 - [[CRISPR and Vaccine Maker]] — programming, pages, inputs, quality, notes, and synthesis.
 - [[Vaccines and Immunity]] — treatment families, cure calculation, directed actions, and immunity.

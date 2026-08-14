@@ -46,5 +46,4 @@ The Live Culture Vial tooltip communicates filled/catalogued status and directs 
 
 ## Related pages
 
-- [[Integrated Gameplay Loop]]
 - [[Vaccines and Immunity]]

@@ -108,4 +108,4 @@ No Java code changes are needed. The microscope will automatically accept the ne
 - Title and Inventory text color matches the Centrifuge/Incubator visual language.
 - The Microscope remains the information-reveal step for hidden genetic targets used by directed vaccines.
 
-See [[CRISPR and Vaccine Maker]] and [[Integrated Gameplay Loop]].
+See [[CRISPR and Vaccine Maker]].

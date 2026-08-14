@@ -6,6 +6,5 @@
 [[Tools]]
 [[Information Items]]
 [[bioforge Command]]
-[[Integrated Gameplay Loop]]
 [[Research Systems]]
 [[Transmission, PPE and Symptom Gameplay]]

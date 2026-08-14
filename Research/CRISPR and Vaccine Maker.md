@@ -129,7 +129,6 @@ Vaccine Maker recipes appear in JEI. Supported GUI resources include page backgr
 
 ## Related pages
 
-- [[Integrated Gameplay Loop]]
 - [[Vaccines and Immunity]]
 - [[Strain Catalogue]]
 - [[JSON and Addon Support]]

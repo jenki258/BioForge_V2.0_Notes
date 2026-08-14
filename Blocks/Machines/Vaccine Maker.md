@@ -4,5 +4,5 @@ The Vaccine Maker is BioForge V2's CRISPR programming and vaccine synthesis mach
 
 Its complete design, slot map, quality rules, notes, failures, JSON recipes, JEI, textures, and addon-page API are documented in [[CRISPR and Vaccine Maker]].
 
-See also [[Vaccines and Immunity]], [[Integrated Gameplay Loop]].
+See also [[Vaccines and Immunity]].
 
