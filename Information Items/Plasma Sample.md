@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Item #Research #LegacyUpdated
+
+> Registry ID: `bioforge:plasma_sample`.
+
 #InformationItems 
 
 A **Plasma Sample** is another product of the **Centrifuge**, representing the liquid component of blood.  

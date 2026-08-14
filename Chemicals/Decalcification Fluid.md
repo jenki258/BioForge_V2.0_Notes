@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Chemical #LegacyUpdated
+
+> Registry ID: `bioforge:decalcification_fluid`.
+
 #Chemicals
 [[Withered Bone Marrow]]
 Decalcification Fluid is a chemical reagent used to **soften calcified biological samples** (e.g., Withered Split Bone) and transform them into a usable form (e.g., Withered Bone Marrow). It works via JSON‑defined recipes and is consumed on use.

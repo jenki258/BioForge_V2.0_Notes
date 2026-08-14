@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Block #LegacyUpdated
+
+> Registry ID: `bioforge:microbial_mat`.
+
 #Blocks
 Microbial Mat is a surface‑covering growth that spreads from a Colony Core. It is the first visible sign of an underground colony, appearing on top of organic substrates (dirt, grass, etc. (It right now uses blocks that sculk can spread on too)). Mats grow over time, slow down entities walking on them, and can eventually turn into Infested Blocks (underground) or Sporocarps (for Fungi).
 

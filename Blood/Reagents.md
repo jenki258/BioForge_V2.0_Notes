@@ -1,3 +1,5 @@
+#BioForge #BioForge_V0_54T #Blood #LegacyUpdated
+
 #Blood
 
 Reagents are chemical vials used to determine the blood type of a blood sample. There are three reagents: **Anti‑A**, **Anti‑B**, and **Anti‑D (Rh)**. Each reacts with specific antigens present in human blood. Animal blood gives a distinct yellow reaction.

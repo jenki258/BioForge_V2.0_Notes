@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Item #Research #LegacyUpdated
+
+> Registry ID: `bioforge:blood_slide`.
+
 #InformationItems
 # Blood Slide
 

@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Item #Tool #LegacyUpdated
+
+> Registry ID: `bioforge:syringe`.
+
 #Tools 
 [[Test Tube]]
 

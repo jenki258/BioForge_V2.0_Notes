@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Item #Tool #LegacyUpdated
+
+> Registry ID: `bioforge:stethoscope`.
+
 #Tools
 The Stethoscope listens to a player's or mob's heart rate and lung sounds. These are symptoms from infections (e.g., tachycardia, bradycardia, crackles).
 

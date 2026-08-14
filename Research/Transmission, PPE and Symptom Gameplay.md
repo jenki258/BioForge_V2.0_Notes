@@ -1,5 +1,7 @@
 # Transmission, PPE, and symptom gameplay
 
+#BioForge #BioForge_V0_54T #Research #LegacyUpdated
+
 BioForge V2 treats transmission routes as independent mechanics that can also reinforce one another. A route is no longer only descriptive strain data.
 
 ## Air and rooms

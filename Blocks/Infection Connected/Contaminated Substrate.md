@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Block #LegacyUpdated
+
+> Registry ID: `bioforge:contaminated_substrate`.
+
 #Blocks 
 [[Infested Crop]]
 [[Colony Core]]

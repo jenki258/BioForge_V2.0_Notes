@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Item #Tool #LegacyUpdated
+
+> Registry ID: `bioforge:pulse_oximeter`.
+
 #Tools
 The Pulse Oximeter measures blood oxygen saturation (SpO₂) and perfusion index (PI) of a player or mob. These values can be affected by infections or circulatory conditions.
 

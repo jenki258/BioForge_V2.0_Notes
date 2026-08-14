@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Item #Bone #LegacyUpdated
+
+> Registry ID: `bioforge:bone_marrow`.
+
 #Bones 
 Bone Marrow is a refined blood sample obtained by processing a **Split Bone** in a Centrifuge. It contains the blood data (type, amount, source) of the original entity. Unlike Split Bone, Bone Marrow **can be used directly with reagents** to determine the blood type.
 

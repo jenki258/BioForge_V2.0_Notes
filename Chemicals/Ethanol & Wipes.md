@@ -1,3 +1,5 @@
+#BioForge #BioForge_V0_54T #Chemical #LegacyUpdated
+
 #Chemicals
 ## Overview
 In BioForge, re‑usable glassware (Culture Vials) and Syringes can become **contaminated** with dangerous infection strains.  

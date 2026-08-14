@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Block #LegacyUpdated
+
+> Registry ID: `bioforge:petri_dish`.
+
 #Blocks
 
 The Petri Dish is a culture container for growing pathogen samples collected with a Swab. It allows you to multiply a strain, then harvest it with a fresh swab to transfer the culture elsewhere. The dish can be placed as a block or held as an item; both work similarly.

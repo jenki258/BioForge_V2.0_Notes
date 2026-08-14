@@ -1,3 +1,5 @@
+#BioForge #BioForge_V0_54T #Command #LegacyUpdated
+
 #Commands
 
 The **infection commands** allow operators (players with permission level 2 or higher) to manually control infections on living entities. You can infect or cure targets, choose the pathogen type, transmission methods, and even fine‑tune individual symptoms.

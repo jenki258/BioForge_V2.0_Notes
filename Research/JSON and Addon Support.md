@@ -1,3 +1,5 @@
+#BioForge #BioForge_V0_54T #Research #LegacyUpdated
+
 #Extra 
 
 BioForge V2 exposes research and laboratory content through server data packs so modpacks can change recipes, balance, mutation behavior, and supported analysis without editing BioForge Java.

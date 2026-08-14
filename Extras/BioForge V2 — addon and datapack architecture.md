@@ -1,3 +1,5 @@
+#BioForge #BioForge_V0_54T #AddonDevelopment #LegacyUpdated
+
 #Addons
 
 The biological runtime is no longer limited to the original Java enums. Pathogens, transmission routes and symptoms use stable namespaced IDs and resolve from a common versioned registry.

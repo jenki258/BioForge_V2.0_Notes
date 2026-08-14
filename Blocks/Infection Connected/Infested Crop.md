@@ -1,3 +1,5 @@
+#BioForge #BioForge_V0_54T #Block #LegacyUpdated
+
 #Blocks 
 Infected crops are regular vanilla or mod crops (wheat, carrots, potatoes, etc.) that have been contaminated with a pathogen strain. The infection affects the crop's drops - infected crops have a chance to drop **contaminated items** that can spread the infection when eaten or planted.
 

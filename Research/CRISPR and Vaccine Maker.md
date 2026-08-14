@@ -1,3 +1,5 @@
+#BioForge #BioForge_V0_54T #Research #LegacyUpdated
+
 #Blocks 
 
 The Vaccine Maker combines editable CRISPR guides, a sample, functional Cas/PAM module, vaccine carrier, clinical evidence, and recipe-defined synthesis.

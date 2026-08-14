@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Item #Tool #LegacyUpdated
+
+> Registry ID: `bioforge:medical_report`.
+
 #Tools 
 The Medical Report is a printable document that contains all diagnostic data recorded for a patient using the Clipboard. It serves as a permanent record of a patient’s vital signs, respiratory status, neurological reflexes, visual symptoms, and blood type.
 

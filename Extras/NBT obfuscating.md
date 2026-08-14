@@ -1,3 +1,5 @@
+#BioForge #BioForge_V0_54T #AddonDevelopment #LegacyUpdated
+
 #Extra
 
 The mod uses **NBT obfuscation** to prevent players from reading or tampering with sensitive item data (blood samples, infection strains, medical records, etc.) via commands like `/data get` or inventory viewers.

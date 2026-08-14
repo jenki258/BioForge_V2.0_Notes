@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Item #Research #LegacyUpdated
+
+> Registry ID: `bioforge:cell_pellet`.
+
 #InformationItems 
 
 A **Cell Pellet** is a concentrated biological sample produced by the **Centrifuge**.  

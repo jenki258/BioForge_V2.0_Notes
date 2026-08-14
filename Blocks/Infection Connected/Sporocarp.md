@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Block #LegacyUpdated
+
+> Registry ID: `bioforge:sporocarp`.
+
 #Blocks
 The Sporocarp is a **fruiting body** that forms from a fully grown (stage 4) **Fungal** Microbial Mat. It acts as a spore dispersal structure - when exposed to sunlight, it bursts open and spreads new Microbial Mats in a radius around it. Sporocarps also periodically regenerate nearby Mats.
 

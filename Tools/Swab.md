@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Item #Tool #LegacyUpdated
+
+> Registry ID: `bioforge:swab`.
+
 #Tools
 The Swab collects a sample of infection data from a living entity *or* from certain infected blocks. It stores the full pathogen profile (pathogen type, transmission types, symptom values). This sample can then be used to inoculate a Petri dish or Contaminated Substrate.
 

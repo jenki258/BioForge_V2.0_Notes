@@ -1,3 +1,5 @@
+#BioForge #BioForge_V0_54T #Command #LegacyUpdated
+
 #Commands
 
 These commands allow operators (and, for `get_blood`, any player) to inspect and modify the blood data of entities. You can view current blood levels and phases, set blood amount or type, and reset blood to full with a random type.

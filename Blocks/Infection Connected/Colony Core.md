@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Block #LegacyUpdated
+
+> Registry ID: `bioforge:colony_core`.
+
 #Blocks
 [[Microbial Mat]]
 [[Sporocarp]]

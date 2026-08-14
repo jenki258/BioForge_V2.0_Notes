@@ -1,3 +1,5 @@
+#BioForge #BioForge_V0_54T #Command #LegacyUpdated
+
 #Commands 
 
 These commands allow operators to manage a player’s stored blood knowledge - the record of which reagents (Anti‑A, Anti‑B, Anti‑D) have been tested on blood from each subject (mob or player). The knowledge system enables the mod to reveal the full blood type on items only after all three reagents have been tested on that subject.

@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Block #LegacyUpdated
+
+> Registry ID: `bioforge:infested_block`.
+
 #Blocks 
 Infested Block is the **underground form** of the colony. It replaces organic substrate blocks (dirt, grass, etc.) when the colony spreads beneath the surface. Infested Blocks slowly grow, generate resources for the colony core, and can spawn Microbial Mats on the surface above them. They are the "root system" of the colony.
 

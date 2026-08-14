@@ -1,3 +1,5 @@
+#BioForge #BioForge_V0_54T #Research #LegacyUpdated
+
 #Extra 
 
 The catalogue gives an infection a stable research identity and optional public name without exposing every internal parameter.

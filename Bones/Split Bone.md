@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Item #Bone #LegacyUpdated
+
+> Registry ID: `bioforge:split_bone`.
+
 #Bones
 Split Bone is a bone fragment obtained from skeletons (and other entities tagged as `skeleton_blood_sources`) using the Bone Saw. It contains the **blood data** (type, amount, source) of the entity it was taken from. Split Bone cannot be used directly with reagents; it must first be processed into **Bone Marrow** via the Centrifuge.
 

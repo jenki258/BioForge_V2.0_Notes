@@ -1,3 +1,5 @@
+#BioForge #BioForge_V0_54T #Item #Tool #LegacyUpdated
+
 #Tools
 The Otoscope is a visual diagnostic tool that examines a living entity for surface abnormalities like redness, lesions, secretion, and swelling. The Mirror allows you to use the Otoscope on yourself.
 

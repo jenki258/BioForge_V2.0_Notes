@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Block #LegacyUpdated
+
+> Registry ID: `bioforge:centrifuge`.
+
 #Blocks
 
 The Centrifuge is a machine block that processes items according to JSON recipes. It can transform one item into another, optionally copying blood data or specific NBT tags. Each recipe has a processing time, and multiple slots can run simultaneously (8 slots).

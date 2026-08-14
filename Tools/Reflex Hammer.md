@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Item #Tool #LegacyUpdated
+
+> Registry ID: `bioforge:reflex_hammer`.
+
 #Tools
 The Reflex Hammer tests the neurological reflexes of a player or mob. It measures reflex delay, reflex strength, and neural damage - symptoms that can be affected by infections or other conditions.
 

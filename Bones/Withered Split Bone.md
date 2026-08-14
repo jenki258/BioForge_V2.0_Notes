@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Item #Bone #LegacyUpdated
+
+> Registry ID: `bioforge:withered_split_bone`.
+
 #Bones
 
 Withered Split Bone is a calcified bone fragment obtained from wither skeletons (and other entities tagged as `withered_skeleton_blood_sources`) using the Bone Saw. It contains the **blood data** (type, amount, source) of the entity it was taken from. Unlike normal Split Bone, Withered Split Bone cannot be processed in a Centrifuge; it requires **Decalcification Fluid** to become usable Withered Bone Marrow.

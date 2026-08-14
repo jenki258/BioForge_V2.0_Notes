@@ -1,3 +1,5 @@
+#BioForge #BioForge_V0_54T #Blood #LegacyUpdated
+
 #Tools #Blood
 [[Reagents]]
 The Needle is a tool used to extract blood from living entities (players and mobs). There are three tiers, each with different success rates, durability, and self‑damage. A needle can also be used to transfer blood into reagent vials for blood typing.

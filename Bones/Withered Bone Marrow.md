@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Item #Bone #LegacyUpdated
+
+> Registry ID: `bioforge:withered_bone_marrow`.
+
 #Bones
 
 Withered Bone Marrow is a refined blood sample obtained by decalcifying a **Withered Split Bone** using Decalcification Fluid. It contains the blood data (type, amount, source) of the original wither skeleton (or other withered source). Like normal Bone Marrow, Withered Bone Marrow **can be used directly with reagents** to determine the blood type.

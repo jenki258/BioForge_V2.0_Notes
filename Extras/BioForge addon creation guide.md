@@ -1,3 +1,5 @@
+#BioForge #BioForge_V0_54T #AddonDevelopment #LegacyUpdated
+
 
 #Addons
 [[BioForge V2 — addon and datapack architecture]]

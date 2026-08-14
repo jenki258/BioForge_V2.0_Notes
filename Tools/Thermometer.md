@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Item #Tool #LegacyUpdated
+
+> Registry ID: `bioforge:thermometer`.
+
 #Tools
 The Thermometer measures the body temperature of players and mobs. It detects fever (high temp) or hypothermia (low temp), which are symptoms of infections in the mod.
 

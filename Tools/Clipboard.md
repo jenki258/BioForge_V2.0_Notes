@@ -1,3 +1,7 @@
+#BioForge #BioForge_V0_54T #Item #Tool #LegacyUpdated
+
+> Registry ID: `bioforge:clipboard`.
+
 #Tools 
 
 The **Clipboard** is a data‑logging tool that records diagnostic findings from other BioForge instruments (Thermometer, Stethoscope, Pulse Oximeter, Otoscope, Reflex Hammer, Blood Reagents).  

@@ -1,0 +1,28 @@
+# Tissue Secretion
+
+#BioForge #BioForge_V0_54T #Symptom #ClinicalParameter #percentage #PlayerGuide #ModpackGuide #AddonDevelopment
+
+> Definition ID: `bioforge:otoscope_secretion`. Value type: `float`.
+
+## Meaning
+
+Secretion from 0% to 100%; higher values increase surface shedding.
+
+## Measurement
+
+Primary instrument/workflow: **Otoscope**. A Clipboard assigned to the same patient records compatible readings and can print them into an exact-subject Medical Report.
+
+## Values
+
+- Default: `0`.
+- Range: 0 to 1.
+- The Vaccine Maker correction page uses meaningful enum labels, True/False for booleans, 0–100 for percentages, and direct entry for large numeric channels.
+
+## Treatment and configuration
+
+- A directed Symptom Vaccine may add/remove/correct this channel when the target action supports it.
+- A Symptom Suppressant Tablet can temporarily disable an identified penalty without curing the infection.
+- Packs may tune/replace the definition and register Java behavior, but saved IDs must remain stable.
+
+Related: [[Symptom System]], [[Symptom Vaccine]], [[Vaccine Correction Matrix]].
+
