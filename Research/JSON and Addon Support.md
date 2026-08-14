@@ -129,7 +129,7 @@ Microscope JSON maps items to calibration and entries. Entries can read strain o
 
 ## Per-world serverconfig
 
-World-specific balance includes the full-vaccine similarity curve/cap, infection-strength resistance, defense mutation scales, immunity duration, ABO/Rh multipliers, and preferred post-failure defense mutation. See [[Vaccines and Immunity]] for defaults.
+World-specific balance includes the full-vaccine similarity curve/cap, infection-strength resistance, defense mutation scales, immunity duration, ABO/Rh multipliers, and preferred post-failure defense mutation. It also includes master and per-built-in switches for spreading routes, symptoms, and mutations, plus room/surface/exposure balance. Disabled built-ins are filtered from generation, storage, machines, commands, microscope output, and runtime behavior. Addon mutations remain JSON-controlled unless the global mutation switch is disabled. See [[Vaccines and Immunity]] and [[Transmission, PPE and Symptom Gameplay]] for defaults and behavior.
 
 ## Addon pages
 
@@ -145,4 +145,3 @@ A renderer alone never decides inventory results. New server behavior still requ
 - Back up worlds before changing stable mutation/profile/action IDs.
 - Test dedicated-server reload and malformed JSON behavior.
 - Confirm BioForge starts without JEI when JEI is optional.
-

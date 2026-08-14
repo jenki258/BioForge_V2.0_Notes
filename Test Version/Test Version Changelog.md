@@ -85,3 +85,17 @@ This records the completed work represented by the current BioForge V2 test sour
 - Directly compiled all 225 Java files with Java 17 without Gradle.
 - Validated bundled JSON syntax.
 
+## Transmission, protection, and symptom overhaul
+
+- Added room-aware airborne concentration that respects walls, closed/open passages, room size, and outdoor dilution.
+- Added persistent hidden contamination to ordinary blocks, including step/use/break exposure, weather decay, and contact/environmental synergy.
+- Connected infected crops, animal drops, crafted foods, filled water bottles, drinks, and brewed potions to FOOD/WATER/ANIMALS routes.
+- Added route synergies including airborne environmental settling, secretions contaminating surfaces, and stronger attack+blood exposure.
+- Added Medical Mask, Protective Gloves, Ice Bag, Magma Bag, the four-piece HazCure suit, crafting intermediates, and hard progression recipes.
+- Added thrown Decontamination Flasks that clean a configurable area.
+- Added active gameplay for cardiac, respiratory, oxygen, perfusion, tissue, neural, reflex, secretion, lesion, and temperature symptoms.
+- Added Vaccine Maker-produced Symptom Tablets and analgesic-resistance interaction.
+- Added ten bundled JSON mutations with new symptom, route, and compound interactions.
+- Added base-by-base CRISPR assay feedback and exact numeric correction entry for large-value fields.
+- Added per-world master and per-built-in serverconfig switches for all bundled transmission routes, symptoms, and mutations.
+- Regenerated `MISSING_TEXTURES.md`; no PNG placeholders or AI-generated textures were added.
