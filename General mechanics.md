@@ -8,3 +8,4 @@
 [[bioforge Command]]
 [[Research Systems]]
 [[Transmission, PPE and Symptom Gameplay]]
+[[BioForge addon creation guide]]
