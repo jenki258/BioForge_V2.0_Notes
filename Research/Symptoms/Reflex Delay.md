@@ -1,6 +1,6 @@
 # Reflex Delay
 
-#BioForge #BioForge_V0_54T #Symptom #ClinicalParameter #number #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Symptom #ClinicalParameter #number #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Definition ID: `bioforge:reflex_delay`. Value type: `float`.
 

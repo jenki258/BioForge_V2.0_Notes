@@ -1,4 +1,6 @@
-#BioForge #BioForge_V0_54T #AddonDevelopment #LegacyUpdated
+# BioForge addon creation guide
+
+#BioForge #BioForge_V2_0 #Build_V0_54T #AddonDevelopment #LegacyUpdated
 
 
 #Addons
@@ -52,7 +54,7 @@ JSON can compose built-in behavior. Java is required when the desired mechanic d
 - Test both single-player and a dedicated server.
 - Back up an existing world before changing saved biological IDs.
 
-# Part I: JSON/datapack addons
+## Part I: JSON/datapack addons
 
 ## 1. Starter datapack structure
 
@@ -521,7 +523,7 @@ Recommended test loop:
 
 Core pathogen/transmission/symptom reload is atomic. If one of those definitions is invalid, BioForge rejects that new set and keeps the previous valid snapshot. Other content loaders report and skip invalid entries, so always check the log after `/reload`.
 
-# Part II: compiled Java addons
+## Part II: compiled Java addons
 
 ## 13. Create the Forge addon project
 
@@ -859,7 +861,7 @@ Optional client rendering is registered separately through `VaccineMakerPageRend
 
 Prefer this facade over reaching directly into BioForge manager internals. Internal packages may change while the public facade remains compatible.
 
-# Part III: hybrid addon design
+## Part III: hybrid addon design
 
 ## 24. Connect Java behavior to JSON content
 

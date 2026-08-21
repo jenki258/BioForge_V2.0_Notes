@@ -1,6 +1,6 @@
 # Gastrointestinal Shedding
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_uncommon #Pathogen_BACTERIA #Pathogen_PARASITE #Pathogen_VIRUS #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_uncommon #Pathogen_BACTERIA #Pathogen_PARASITE #Pathogen_VIRUS #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `gastrointestinal_shedding`. Source: `data/bioforge/mutations/gastrointestinal_shedding.json`.
 

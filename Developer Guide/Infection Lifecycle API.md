@@ -1,6 +1,6 @@
 # Infection Lifecycle API
 
-#BioForge #BioForge_V0_54T #JavaAPI #JSONAPI #Lifecycle #NaturalInfection #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #JavaAPI #JSONAPI #Lifecycle #NaturalInfection #AddonDevelopment
 
 Lifecycle definitions control incubation ticks, climate rates, adaptation points/thresholds/mutations, lifespan, infectivity, cure resistance, and incubation contagiousness.
 

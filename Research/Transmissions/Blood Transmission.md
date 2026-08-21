@@ -1,6 +1,6 @@
 # Blood Transmission
 
-#BioForge #BioForge_V0_54T #Transmission #blood #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Transmission #blood #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Definition ID: `bioforge:blood`. Behaviors: `bioforge:blood`.
 

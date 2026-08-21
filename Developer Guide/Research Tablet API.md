@@ -1,6 +1,6 @@
 # Research Tablet API
 
-#BioForge #BioForge_V0_54T #JavaAPI #JSONAPI #ResearchTablet #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #JavaAPI #JSONAPI #ResearchTablet #AddonDevelopment
 
 A Research Tablet page defines ID, title/body content, ordering/category, unlock triggers, icons, and structured recipe references. JSON pages load from `research_journal`; Java addons register page definitions/views before registry finalization.
 

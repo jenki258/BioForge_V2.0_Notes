@@ -1,43 +1,53 @@
-# BioForge V0.54T Wiki
+# BioForge V2.0 Wiki
 
-#BioForge #BioForge_V0_54T #Wiki #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Wiki #PlayerGuide #ModpackGuide #AddonDevelopment
 
-> Documentation status: current for the V0.54T test build. This wiki separates player-facing knowledge from configuration and implementation details while keeping them connected through links.
+> Documentation snapshot: BioForge V2.0, test build V0.54T. Gameplay values described here are defaults and may be changed by server configuration or datapacks.
 
-BioForge is a biomedical progression mod built around examination, blood handling, infection research, cultivation, microscopy, CRISPR programming, pharmaceutical production, vaccination, containment, and extensibility. It can be played as a laboratory progression mod, configured as a modpack disease framework, or extended as a Java/JSON platform.
+BioForge is a biomedical progression mod for Minecraft 1.20.1 Forge. Its central loop joins field diagnosis, blood handling, infection research, cultivation, microscopy, CRISPR programming, pharmaceutical production, vaccination, containment, and environmental cleanup. The same systems are exposed to modpack authors through JSON and to addon developers through Java APIs.
 
-## Choose your route
+## Start here
 
-- [[Player Guide]] — survival progression, equipment, laboratory workflows, protection, and treatment.
-- [[Item Catalogue]] — one page for every registered item.
-- [[Block and Machine Catalogue]] — one page for every block and workstation.
-- [[Mechanics Index]] — every gameplay system and the connections between them.
-- [[Mutation Catalogue]] — all bundled mutation definitions and their interactions.
-- [[Symptom Catalogue]] — all editable clinical parameters and their consequences.
-- [[Transmission Catalogue]] — every route by which infection can spread.
-- [[Modpack Maker Guide]] — server configuration, tags, datapacks, balance, and compatibility.
-- [[Addon Developer Guide]] — public Java API, JSON schemas, reload behavior, and validation.
-- [[Command Catalogue]] — administration, testing, research, infection, and development commands.
+- [[Getting Started]] — installation, first equipment, and the shortest route into the laboratory.
+- [[Player Guide]] — the complete survival progression and connected gameplay loop.
+- [[Contents]] — the maintained map of this wiki.
+- [[FAQ]] and [[Glossary]] — quick answers and consistent terminology.
+- [[Compatibility and Requirements]] — supported runtime, optional integrations, and multiplayer expectations.
 
-## The core gameplay loop
+## Complete catalogues
 
-1. Detect illness through symptoms, tools, reports, scanners, and environmental evidence.
-2. Collect blood or environmental samples without contaminating the laboratory.
+- [[Item Catalogue]] — every registered item family, with one page per content item.
+- [[Block and Machine Catalogue]] — laboratory machines, scanners, containment, and environmental biology.
+- [[Mechanics Index]] — every gameplay system and the links between them.
+- [[Mutation Catalogue]] — all 81 bundled mutation definitions and their interactions.
+- [[Symptom Catalogue]] — all 17 typed clinical parameters and their consequences.
+- [[Transmission Catalogue]] — all eight executable transmission routes.
+- [[Command Catalogue]] — administration, validation, testing, research, and infection commands.
+
+## Configuration and extension
+
+- [[Modpack Maker Guide]] — server configuration, datapacks, tags, balance, and compatibility.
+- [[Addon Developer Guide]] — supported JSON and Java extension surfaces.
+- [[BioForge addon creation guide]] — the exhaustive, copy-ready addon tutorial.
+- [[Localization and Translation]] — language-file rules and the current localization boundary.
+- [[Release Checklist]] — the remaining verification and polish required before a public release.
+
+## The connected gameplay loop
+
+1. Detect illness through symptoms, field tools, medical records, scanners, and environmental evidence.
+2. Collect blood or environmental samples while preventing cross-contamination.
 3. Separate, cultivate, and inspect samples in the Centrifuge, Incubator, and Microscope.
-4. Record strain evidence and assemble a CRISPR program in the Vaccine Maker.
-5. Produce a vaccine, directed treatment, resistance pill, or symptom suppressant.
-6. Test treatment quality through a vaccinated-blood assay rather than receiving perfect information for free.
-7. Protect personnel, clean contaminated rooms, and monitor entrances while the infection continues to adapt.
+4. Record strain evidence, prepare 15 CRISPR cartridges, and select a compatible Cas/PAM module.
+5. Reconstruct the observed strain in the Vaccine Maker correction matrix.
+6. Produce a full-strain vaccine, directed treatment, resistance pill, or symptom suppressant.
+7. Test uncertain treatment quality through a vaccinated-blood assay rather than receiving perfect information for free.
+8. Protect personnel, clean contaminated rooms, and monitor entrances while the infection incubates and adapts.
 
-## Documentation conventions
+## Verified content snapshot
 
-- Every content page names its registry or data ID.
-- `#PlayerGuide` marks survival-facing instructions.
-- `#ModpackGuide` marks configurable or balance-sensitive behavior.
-- `#AddonDevelopment` marks JSON or Java extension points.
-- Exact recipes remain visible in JEI and the in-game Research Tablet; wiki pages explain their purpose, station, and dependency chain.
-- Values described as defaults may be changed by server configuration or datapacks.
+The bundled V0.54T data contains 106 registered item IDs, 21 block IDs, 81 mutation definitions, six pathogen classes, 17 symptom definitions, eight transmission definitions, 21 advancements, and 35 Research Tablet data files. JEI is optional but strongly recommended; the in-game Research Tablet provides progression-aware recipes and explanations.
 
-## Version note
+## Knowledge and safety
 
-V0.54T is a test build. Stored biological data uses stable IDs and obfuscated NBT, but worlds should still be backed up before replacing definitions or changing addon namespaces.
+BioForge deliberately hides some biological detail until the player performs the correct research. A Live Culture Vial, Virus Sample, vaccine, or unknown Gene Imprint should not reveal the complete strain by tooltip alone. Stored biological data uses stable IDs and obfuscated NBT, but worlds should still be backed up before replacing definitions, changing addon namespaces, or installing a new test build.
+

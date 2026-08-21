@@ -1,6 +1,6 @@
 # Decontamination
 
-#BioForge #BioForge_V0_54T #Mechanic #Decontamination #Containment #Command #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Decontamination #Containment #Command #PlayerGuide #ModpackGuide
 
 Decontamination is explicit because crafting or waiting should not silently clean every hazard.
 

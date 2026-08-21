@@ -1,6 +1,6 @@
 # Otoscope
 
-#BioForge #BioForge_V0_54T #Item #Tools #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Item #Tools #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Documentation status: implemented in V0.54T.
 

@@ -1,6 +1,6 @@
 # Regenerative Tissue III
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_legendary #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_legendary #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `regenerative_tissue_iii`. Source: `data/bioforge/mutations/simple_effect_tiers.json`.
 

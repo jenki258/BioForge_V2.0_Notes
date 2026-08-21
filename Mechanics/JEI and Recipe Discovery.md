@@ -1,6 +1,6 @@
 # JEI and Recipe Discovery
 
-#BioForge #BioForge_V0_54T #Mechanic #JEI #Recipe #PlayerGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #JEI #Recipe #PlayerGuide #AddonDevelopment
 
 BioForge registers distinct JEI categories for crafting stations instead of hiding all operations behind ingredient lookup.
 

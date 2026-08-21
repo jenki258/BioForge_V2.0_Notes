@@ -1,6 +1,6 @@
 # Modpack Maker Guide
 
-#BioForge #BioForge_V0_54T #ModpackGuide #Configuration #Datapack #Compatibility
+#BioForge #BioForge_V2_0 #Build_V0_54T #ModpackGuide #Configuration #Datapack #Compatibility
 
 BioForge can act as a standalone progression mod or as a configurable disease platform. Packs can replace recipes, tune server balance, disable built-in routes/symptoms/mutations, add data-driven strains, and integrate other mods through tags.
 
@@ -20,6 +20,7 @@ BioForge can act as a standalone progression mod or as a configurable disease pl
 - [[Natural Infections and Wild Hosts]] controls which entities can begin with which strains.
 - [[Research Tablet Progression]] supports JSON pages and recipe references for addon content.
 - [[Testing and Validation]] covers `/reload`, validation, stress tests, and test sample commands.
+- [[Localization and Translation]] documents bundled locales and the language resources expected from addon content.
 
 ## Balance philosophy
 
@@ -34,4 +35,3 @@ The default progression is intentionally long but should remain readable: basic 
 - Back up worlds before replacing lifecycle or mutation definitions.
 
 For complete schemas, continue with [[BioForge addon creation guide]] or [[Addon Developer Guide]].
-

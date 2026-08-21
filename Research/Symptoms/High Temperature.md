@@ -1,6 +1,6 @@
 # High Temperature
 
-#BioForge #BioForge_V0_54T #Symptom #ClinicalParameter #boolean #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Symptom #ClinicalParameter #boolean #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Definition ID: `bioforge:temperature_plus`. Value type: `boolean`.
 

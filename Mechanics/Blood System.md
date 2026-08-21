@@ -1,6 +1,6 @@
 # Blood System
 
-#BioForge #BioForge_V0_54T #Mechanic #Blood #Diagnosis #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Blood #Diagnosis #PlayerGuide #ModpackGuide
 
 Living entities can carry a persistent blood amount and blood type. Blood loss is gameplay state, not cosmetic sample lore.
 

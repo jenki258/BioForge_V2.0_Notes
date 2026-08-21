@@ -1,6 +1,6 @@
 # Mutation Catalogue
 
-#BioForge #BioForge_V0_54T #Mutation #Catalogue #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Catalogue #PlayerGuide #ModpackGuide #AddonDevelopment
 
 V0.54T loads **81 bundled mutation definitions**. Every definition below has its own page with runtime effects, requirements, conflicts, interactions, selection metadata, tags, and addon notes. Universal strains are compatible with the complete bundled set.
 

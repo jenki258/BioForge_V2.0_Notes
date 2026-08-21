@@ -1,6 +1,6 @@
 # Sounds, Particles, and Warden Hearing
 
-#BioForge #BioForge_V0_54T #Mechanic #Sound #Particle #Warden #Accessibility #PlayerGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Sound #Particle #Warden #Accessibility #PlayerGuide
 
 BioForge uses sounds/particles as readable disease and machine feedback.
 

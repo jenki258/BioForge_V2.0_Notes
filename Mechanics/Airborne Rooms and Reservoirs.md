@@ -1,6 +1,6 @@
 # Airborne Rooms and Reservoirs
 
-#BioForge #BioForge_V0_54T #Mechanic #Airborne #RoomScan #Performance #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Airborne #RoomScan #Performance #PlayerGuide #ModpackGuide
 
 Airborne exposure uses bounded room connectivity rather than spreading straight through walls.
 

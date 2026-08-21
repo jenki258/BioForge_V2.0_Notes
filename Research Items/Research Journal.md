@@ -1,6 +1,6 @@
-# Research Journal
+# BioForge Research Tablet
 
-#BioForge #BioForge_V0_54T #Item #Research_Items #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Item #Research_Items #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Documentation status: implemented in V0.54T.
 
@@ -37,4 +37,3 @@ It unlocks permanent discoveries, research toasts, scrolling pages, and visual r
 - [[Progression and Advancements]]
 - [[Recipe and Tag Compatibility]]
 - [[NBT Obfuscation and Biological Data]]
-

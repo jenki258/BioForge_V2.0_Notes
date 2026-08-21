@@ -1,6 +1,6 @@
 # Resistance Pills and Symptom Suppression
 
-#BioForge #BioForge_V0_54T #Mechanic #Pill #SymptomSuppression #Treatment #PlayerGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Pill #SymptomSuppression #Treatment #PlayerGuide
 
 ## Resistance pills
 

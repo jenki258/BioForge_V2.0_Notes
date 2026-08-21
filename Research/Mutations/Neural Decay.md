@@ -1,6 +1,6 @@
 # Neural Decay
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_epic #Pathogen_PRION #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_epic #Pathogen_PRION #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `neural_decay`. Source: `data/bioforge/mutations/neural_decay.json`.
 

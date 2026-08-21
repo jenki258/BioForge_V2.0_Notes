@@ -1,4 +1,6 @@
-#BioForge #BioForge_V0_54T #Block #LegacyUpdated
+# Infested Block
+
+#BioForge #BioForge_V2_0 #Build_V0_54T #Block #LegacyUpdated
 
 > Registry ID: `bioforge:infested_block`.
 

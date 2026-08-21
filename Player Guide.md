@@ -1,6 +1,6 @@
 # Player Guide
 
-#BioForge #BioForge_V0_54T #PlayerGuide #Progression
+#BioForge #BioForge_V2_0 #Build_V0_54T #PlayerGuide #Progression
 
 > Start here if you are playing BioForge rather than configuring or extending it.
 

@@ -1,6 +1,6 @@
 # Hemorrhagic Lesions
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_rare #Pathogen_VIRUS #Pathogen_BACTERIA #Pathogen_PARASITE #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_rare #Pathogen_VIRUS #Pathogen_BACTERIA #Pathogen_PARASITE #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `hemorrhagic_lesions`. Source: `data/bioforge/mutations/hemorrhagic_lesions.json`.
 

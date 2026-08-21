@@ -1,4 +1,6 @@
-#BioForge #BioForge_V0_54T #Item #Bone #LegacyUpdated
+# Split Bone
+
+#BioForge #BioForge_V2_0 #Build_V0_54T #Item #Bone #LegacyUpdated
 
 > Registry ID: `bioforge:split_bone`.
 

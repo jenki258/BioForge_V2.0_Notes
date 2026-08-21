@@ -1,6 +1,6 @@
 # Infection System
 
-#BioForge #BioForge_V0_54T #Mechanic #Infection #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Infection #PlayerGuide #ModpackGuide #AddonDevelopment
 
 BioForge stores an active infection as a server-authoritative strain rather than as one ordinary potion effect. A strain combines a pathogen class, transmission routes, clinical parameters, mutations, lifecycle state, identity/fingerprint, catalogue name, and treatment-relevant data.
 

@@ -1,6 +1,6 @@
 # Water-Borne Transmission
 
-#BioForge #BioForge_V0_54T #Transmission #water_borne #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Transmission #water_borne #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Definition ID: `bioforge:water_borne`. Behaviors: `bioforge:water_borne`.
 

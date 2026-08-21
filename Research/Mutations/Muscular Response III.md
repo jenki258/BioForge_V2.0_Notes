@@ -1,6 +1,6 @@
 # Muscular Response III
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_epic #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_epic #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `muscular_response_iii`. Source: `data/bioforge/mutations/simple_effect_tiers.json`.
 

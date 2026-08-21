@@ -1,6 +1,6 @@
 # Containment and PPE
 
-#BioForge #BioForge_V0_54T #Mechanic #PPE #Containment #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #PPE #Containment #PlayerGuide #ModpackGuide
 
 BioForge protection is route-specific. Ordinary armour values do not automatically block infection.
 

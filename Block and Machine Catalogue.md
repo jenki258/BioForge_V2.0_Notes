@@ -1,6 +1,6 @@
 # Block and Machine Catalogue
 
-#BioForge #BioForge_V0_54T #Block #Machine #Catalogue #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Block #Machine #Catalogue #PlayerGuide #ModpackGuide
 
 ## Laboratory machines
 

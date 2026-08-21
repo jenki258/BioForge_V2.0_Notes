@@ -1,6 +1,6 @@
 # Chemical Synthesizer
 
-#BioForge #BioForge_V0_54T #Block #Machine #Chemistry #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Block #Machine #Chemistry #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Registry ID: `bioforge:chemical_synthesizer`. Station ID: `chemical_synthesizer`.
 

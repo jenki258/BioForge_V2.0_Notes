@@ -1,6 +1,6 @@
 # Mutation System
 
-#BioForge #BioForge_V0_54T #Mechanic #Mutation #JSON #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Mutation #JSON #PlayerGuide #ModpackGuide #AddonDevelopment
 
 Mutations are reloadable strain definitions with compatibility, selection, lifecycle effects, and interactions. V0.54T bundles 81 definitions; the Universal pathogen class can use every bundled mutation.
 

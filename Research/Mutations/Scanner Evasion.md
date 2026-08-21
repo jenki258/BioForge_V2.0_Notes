@@ -1,6 +1,6 @@
 # Scanner Evasion
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_epic #Pathogen_VIRUS #Pathogen_PRION #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_epic #Pathogen_VIRUS #Pathogen_PRION #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `scanner_evasion`. Source: `data/bioforge/mutations/scanner_evasion.json`.
 

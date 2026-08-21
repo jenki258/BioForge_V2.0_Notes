@@ -1,6 +1,6 @@
 # Live Culture Vial
 
-#BioForge #BioForge_V0_54T #Item #Culture #Incubation #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Item #Culture #Incubation #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Registry ID: `bioforge:live_culture_vial`.
 

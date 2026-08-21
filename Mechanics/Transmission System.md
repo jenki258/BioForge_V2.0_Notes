@@ -1,6 +1,6 @@
 # Transmission System
 
-#BioForge #BioForge_V0_54T #Mechanic #Transmission #Contamination #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Transmission #Contamination #PlayerGuide #ModpackGuide #AddonDevelopment
 
 Transmission routes are executable behaviors, not tooltip labels. A strain may carry several routes, and combinations can reinforce one another.
 

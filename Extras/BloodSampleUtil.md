@@ -1,4 +1,6 @@
-#BioForge #BioForge_V0_54T #AddonDevelopment #LegacyUpdated
+# BloodSampleUtil
+
+#BioForge #BioForge_V2_0 #Build_V0_54T #AddonDevelopment #LegacyUpdated
 
 #Extra 
 `BloodSampleUtil` is a utility class that simplifies reading and writing blood sample data to items (needles, bone marrow, split bones, etc.). It wraps the lower‑level `NbtObfuscator` to handle the specific format required for blood: amount, type, source name, and source UUID.

@@ -1,6 +1,6 @@
 # Necrotic Fever
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_uncommon #Pathogen_BACTERIA #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_uncommon #Pathogen_BACTERIA #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `necrotic_fever`. Source: `data/bioforge/mutations/necrotic_fever.json`.
 

@@ -1,6 +1,6 @@
 # Natural Infections and Wild Hosts
 
-#BioForge #BioForge_V0_54T #Mechanic #NaturalInfection #Worldgen #Datapack #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #NaturalInfection #Worldgen #Datapack #ModpackGuide #AddonDevelopment
 
 Natural infection rules allow mobs to enter the world with believable reservoir strains. The system is data-driven and does not require every infection to originate from a player command.
 

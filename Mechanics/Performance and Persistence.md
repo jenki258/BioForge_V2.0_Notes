@@ -1,6 +1,6 @@
 # Performance and Persistence
 
-#BioForge #BioForge_V0_54T #Mechanic #Performance #Persistence #Server #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Performance #Persistence #Server #ModpackGuide
 
 BioForge's expensive systems are server-side, bounded, indexed, and event-driven where possible.
 

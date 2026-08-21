@@ -1,6 +1,6 @@
 # Area Scanning and Redstone Detection
 
-#BioForge #BioForge_V0_54T #Mechanic #Scanner #Redstone #Containment #PlayerGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Scanner #Redstone #Containment #PlayerGuide
 
 The handheld Area Contamination Scanner and placed Viral Scanners answer different questions.
 

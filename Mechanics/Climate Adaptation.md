@@ -1,6 +1,6 @@
 # Climate Adaptation
 
-#BioForge #BioForge_V0_54T #Mechanic #Climate #Mutation #Infection #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Climate #Mutation #Infection #ModpackGuide #AddonDevelopment
 
 Climate adaptation lets an infection respond to sustained hot or cold environments instead of treating biome temperature as cosmetic.
 

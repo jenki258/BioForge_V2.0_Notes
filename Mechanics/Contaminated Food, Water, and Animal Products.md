@@ -1,6 +1,6 @@
 # Contaminated Food, Water, and Animal Products
 
-#BioForge #BioForge_V0_54T #Mechanic #Food #Water #Animals #Crafting #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Food #Water #Animals #Crafting #PlayerGuide #ModpackGuide
 
 Biological contamination can remain attached to items, so killing or crafting does not silently sterilize a strain.
 

@@ -1,6 +1,6 @@
 # Server Configuration
 
-#BioForge #BioForge_V0_54T #ServerConfig #Balance #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #ServerConfig #Balance #ModpackGuide
 
 World balance lives in `serverconfig/bioforge-server.toml`, so different saves can use different disease rules.
 

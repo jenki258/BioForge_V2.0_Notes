@@ -1,6 +1,6 @@
 # Black Steel Block
 
-#BioForge #BioForge_V0_54T #Block #Material #BlackSteel #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Block #Material #BlackSteel #PlayerGuide #ModpackGuide
 
 > Registry ID: `bioforge:black_steel_block`.
 

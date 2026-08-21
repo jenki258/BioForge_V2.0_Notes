@@ -1,6 +1,6 @@
 # Research Tablet Progression
 
-#BioForge #BioForge_V0_54T #Mechanic #ResearchTablet #Progression #Recipe #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #ResearchTablet #Progression #Recipe #PlayerGuide #ModpackGuide #AddonDevelopment
 
 The Research Journal item opens a large tablet-style interface, not a vanilla book. Its dark-cyan panel elements, cyan text, scrollbars, line breaks, and structured recipe widgets are part of the V0.54T design.
 

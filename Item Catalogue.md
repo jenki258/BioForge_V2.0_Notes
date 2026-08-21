@@ -1,6 +1,6 @@
 # Item Catalogue
 
-#BioForge #BioForge_V0_54T #Item #Catalogue #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Item #Catalogue #PlayerGuide #ModpackGuide
 
 > Each linked content item has its own page. Machine block-items are documented with their placed blocks in [[Block and Machine Catalogue]].
 

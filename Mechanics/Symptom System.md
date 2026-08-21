@@ -1,6 +1,6 @@
 # Symptom System
 
-#BioForge #BioForge_V0_54T #Mechanic #Symptom #Diagnosis #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Symptom #Diagnosis #PlayerGuide #ModpackGuide #AddonDevelopment
 
 BioForge symptoms are typed clinical parameters with executable server behavior and instrument-specific visibility. They are not all ordinary Minecraft effects.
 

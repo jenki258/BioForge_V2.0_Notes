@@ -1,6 +1,6 @@
 # CRISPR Programming
 
-#BioForge #BioForge_V0_54T #Mechanic #CRISPR #VaccineMaker #Research #PlayerGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #CRISPR #VaccineMaker #Research #PlayerGuide #AddonDevelopment
 
 BioForge uses four guide bases rather than a binary puzzle. A complete program has fifteen CRISPR cartridges, each carrying a four-base sequence plus one of three guide roles.
 

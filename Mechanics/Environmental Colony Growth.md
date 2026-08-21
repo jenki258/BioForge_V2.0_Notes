@@ -1,6 +1,6 @@
 # Environmental Colony Growth
 
-#BioForge #BioForge_V0_54T #Mechanic #Colony #EnvironmentalInfection #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Colony #EnvironmentalInfection #PlayerGuide #ModpackGuide
 
 Environmental biology converts a controlled Petri Dish or contaminated substrate into visible world growth.
 

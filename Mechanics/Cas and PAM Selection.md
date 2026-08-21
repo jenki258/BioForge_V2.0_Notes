@@ -1,6 +1,6 @@
 # Cas and PAM Selection
 
-#BioForge #BioForge_V0_54T #Mechanic #CRISPR #Cas #PAM #VaccineMaker #PlayerGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #CRISPR #Cas #PAM #VaccineMaker #PlayerGuide #AddonDevelopment
 
 Cas/PAM is a functional module choice, not decorative text shared by every vaccine.
 

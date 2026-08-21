@@ -1,6 +1,6 @@
 # Laboratory Recipe API
 
-#BioForge #BioForge_V0_54T #JavaAPI #JSONAPI #Recipe #Machine #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #JavaAPI #JSONAPI #Recipe #Machine #AddonDevelopment
 
 Laboratory-processing JSON selects one station: `barrel_press` (4 in/1 out), `chemical_synthesizer` (3/1), `sterilization_chamber` (8 independent in-place), or `pharma_mixer` (5 in/result+waste).
 

@@ -1,6 +1,6 @@
 # Heat Adaptation
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_rare #Pathogen_VIRUS #Pathogen_BACTERIA #Pathogen_FUNGI #Pathogen_PARASITE #Pathogen_PRION #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_rare #Pathogen_VIRUS #Pathogen_BACTERIA #Pathogen_FUNGI #Pathogen_PARASITE #Pathogen_PRION #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `heat_adaptation`. Source: `data/bioforge/mutations/lifecycle_mutations.json`.
 

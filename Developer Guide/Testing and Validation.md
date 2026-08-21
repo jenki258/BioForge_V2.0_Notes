@@ -1,6 +1,6 @@
 # Testing and Validation
 
-#BioForge #BioForge_V0_54T #Testing #Validation #Command #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Testing #Validation #Command #ModpackGuide #AddonDevelopment
 
 Use `/bioforge validate` after every datapack reload. It checks IDs, referenced behaviors, ranges, requirements/conflicts, machine recipes, and other reloadable content.
 

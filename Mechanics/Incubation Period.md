@@ -1,6 +1,6 @@
 # Incubation Period
 
-#BioForge #BioForge_V0_54T #Mechanic #Incubation #Infection #VaccineMaker #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Incubation #Infection #VaccineMaker #PlayerGuide #ModpackGuide
 
 Incubation is the hidden delay between acquiring an infection and its active symptom/mutation phase. During this time a subject can appear normal even though the infection exists in server data.
 

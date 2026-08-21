@@ -1,6 +1,6 @@
 # Vaccine Maker Pages and Inventory
 
-#BioForge #BioForge_V0_54T #Mechanic #VaccineMaker #GUI #Inventory #PlayerGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #VaccineMaker #GUI #Inventory #PlayerGuide #AddonDevelopment
 
 The Vaccine Maker has one shared server inventory and multiple client pages. Switching pages never moves or duplicates stacks.
 

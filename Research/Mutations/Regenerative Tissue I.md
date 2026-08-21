@@ -1,6 +1,6 @@
 # Regenerative Tissue I
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_rare #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_rare #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `regenerative_tissue_i`. Source: `data/bioforge/mutations/simple_effect_tiers.json`.
 

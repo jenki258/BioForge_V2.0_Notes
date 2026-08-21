@@ -1,6 +1,6 @@
 # NBT Obfuscation and Biological Data
 
-#BioForge #BioForge_V0_54T #Mechanic #NBT #Security #Data #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #NBT #Security #Data #AddonDevelopment
 
 Strain, sample, vaccine, report, CRISPR, immunity, and diagnostic payloads use BioForge's NBT obfuscator and typed helpers. The goal is gameplay information control, not cryptographic protection against a server owner.
 

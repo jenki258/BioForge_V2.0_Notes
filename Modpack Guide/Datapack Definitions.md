@@ -1,6 +1,6 @@
 # Datapack Definitions
 
-#BioForge #BioForge_V0_54T #Datapack #JSONAPI #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Datapack #JSONAPI #ModpackGuide #AddonDevelopment
 
 Reloadable directories include core definitions, mutations, lifecycles, natural infections, CRISPR guide/Cas/assay data, vaccine actions/correction/recipes, laboratory processing, Centrifuge, Incubator catalyst mappings, Microscope mappings, Research Tablet pages, recipes, and tags.
 

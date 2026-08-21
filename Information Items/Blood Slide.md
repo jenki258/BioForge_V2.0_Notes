@@ -1,9 +1,11 @@
-#BioForge #BioForge_V0_54T #Item #Research #LegacyUpdated
+# Blood Slide
+
+#BioForge #BioForge_V2_0 #Build_V0_54T #Item #Research #LegacyUpdated
 
 > Registry ID: `bioforge:blood_slide`.
 
 #InformationItems
-# Blood Slide
+## Blood Slide
 
 The **Blood Slide** is a thin glass slide that permanently stores a blood sample and its associated infection strain.  
 It is the primary item used in the **Microscope** to visualise a patient’s symptoms.

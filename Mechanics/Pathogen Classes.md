@@ -1,6 +1,6 @@
 # Pathogen Classes
 
-#BioForge #BioForge_V0_54T #Mechanic #Pathogen #Datapack #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Pathogen #Datapack #PlayerGuide #ModpackGuide #AddonDevelopment
 
 Pathogen class is the broad biological family of a strain. It influences compatible mutation selection, catalyst reactions, data-driven rules, and what the Pathogen Reagent can reveal.
 

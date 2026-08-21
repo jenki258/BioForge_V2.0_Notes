@@ -1,6 +1,6 @@
 # Vaccine Correction Matrix
 
-#BioForge #BioForge_V0_54T #Mechanic #VaccineMaker #Correction #Symptom #Research #PlayerGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #VaccineMaker #Correction #Symptom #Research #PlayerGuide
 
 The fourth Vaccine Maker page models the non-sequence half of vaccine design: clinical, transmission, mutation, ecological, and lifecycle characteristics.
 

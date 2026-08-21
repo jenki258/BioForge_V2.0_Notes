@@ -1,6 +1,6 @@
 # Necrotic Patch
 
-#BioForge #BioForge_V0_54T #Block #EnvironmentalInfection #Colony #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Block #EnvironmentalInfection #Colony #PlayerGuide #ModpackGuide
 
 > Registry ID: `bioforge:necrotic_patch`.
 

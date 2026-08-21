@@ -1,24 +1,12 @@
-#BioForge #BioForge_V0_54T #Wiki #LegacyUpdated
+# General Mechanics
 
-[[Chemicals]]
-[[Blocks]]
-[[NBT obfuscating]]
-[[BloodSampleUtil]]
-[[Blood Mechanic]]
-[[Tools]]
-[[Information Items]]
-[[bioforge Command]]
-[[Research Systems]]
-[[Transmission, PPE and Symptom Gameplay]]
-[[BioForge addon creation guide]]
+#BioForge #BioForge_V2_0 #Wiki #Mechanics #Index
 
-## V0.54T canonical trees
+The canonical mechanics tree is [[Mechanics Index]]. Its major branches are infection lifecycle, transmission and contamination, clinical systems, research and treatment, world presentation, persistence, configuration, and extension.
 
-- [[Home]]
-- [[Item Catalogue]]
-- [[Block and Machine Catalogue]]
-- [[Mechanics Index]]
-- [[Mutation Catalogue]]
-- [[Symptom Catalogue]]
-- [[Transmission Catalogue]]
-- [[Command Catalogue]]
+- Players: [[Player Guide]], [[Field Workflow]], [[Research Systems]], and [[Transmission, PPE and Symptom Gameplay]].
+- Content: [[Item Catalogue]], [[Block and Machine Catalogue]], [[Mutation Catalogue]], [[Symptom Catalogue]], and [[Transmission Catalogue]].
+- Internals and addons: [[NBT Obfuscation and Biological Data]], [[Biological NBT API]], [[Definition API]], and [[BioForge addon creation guide]].
+- Administration: [[Command Catalogue]], [[Testing and Validation]], and [[Server Configuration]].
+
+Older pages such as [[Blood Mechanic]], [[BloodSampleUtil]], and [[NBT obfuscating]] remain available for implementation-specific reference, but the maintained player explanation is linked from [[Contents]].

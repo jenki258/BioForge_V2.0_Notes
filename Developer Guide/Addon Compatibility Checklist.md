@@ -1,6 +1,6 @@
 # Addon Compatibility Checklist
 
-#BioForge #BioForge_V0_54T #AddonDevelopment #Compatibility #Testing
+#BioForge #BioForge_V2_0 #Build_V0_54T #AddonDevelopment #Compatibility #Testing
 
 - Target Minecraft 1.20.1, Forge 47.4.10, Java 17, and BioForge API v3.
 - Use your namespace and stable IDs.

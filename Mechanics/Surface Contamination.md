@@ -1,6 +1,6 @@
 # Surface Contamination
 
-#BioForge #BioForge_V0_54T #Mechanic #Contact #Environmental #WorldData #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Contact #Environmental #WorldData #PlayerGuide #ModpackGuide
 
 Contact and environmental strains can persist on ordinary block positions without replacing their block state. The contamination is hidden server world data.
 

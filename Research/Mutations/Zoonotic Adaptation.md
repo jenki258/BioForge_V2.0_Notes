@@ -1,6 +1,6 @@
 # Zoonotic Adaptation
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_rare #Pathogen_BACTERIA #Pathogen_PARASITE #Pathogen_VIRUS #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_rare #Pathogen_BACTERIA #Pathogen_PARASITE #Pathogen_VIRUS #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `zoonotic_adaptation`. Source: `data/bioforge/mutations/zoonotic_adaptation.json`.
 

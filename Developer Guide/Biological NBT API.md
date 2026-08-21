@@ -1,6 +1,6 @@
 # Biological NBT API
 
-#BioForge #BioForge_V0_54T #JavaAPI #NBT #Data #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #JavaAPI #NBT #Data #AddonDevelopment
 
 Use `BloodSampleUtil`, NBT obfuscation helpers, and the owning item/system serializers to read, write, clear, compare, or copy biological data.
 

@@ -1,6 +1,6 @@
 # Hay Infusion
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_rare #Pathogen_FUNGI #Pathogen_PARASITE #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_rare #Pathogen_FUNGI #Pathogen_PARASITE #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `hay_infusion`. Source: `data/bioforge/mutations/legacy_v1_catalog.json`.
 

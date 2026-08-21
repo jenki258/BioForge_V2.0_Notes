@@ -1,6 +1,6 @@
 # Mutation API
 
-#BioForge #BioForge_V0_54T #JavaAPI #JSONAPI #Mutation #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #JavaAPI #JSONAPI #Mutation #AddonDevelopment
 
 Mutation JSON defines metadata, compatible pathogens, rarity/weight, enable/hidden state, requirements, conflicts, tags, effects, and interactions.
 

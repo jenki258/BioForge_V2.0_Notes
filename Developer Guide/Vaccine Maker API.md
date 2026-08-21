@@ -1,6 +1,6 @@
 # Vaccine Maker API
 
-#BioForge #BioForge_V0_54T #JavaAPI #JSONAPI #VaccineMaker #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #JavaAPI #JSONAPI #VaccineMaker #AddonDevelopment
 
 JSON systems include guide profiles, Cas/PAM modules, assays, vaccine actions, correction profiles, and one Vaccine Maker recipe per file. Recipes declare inputs, evidence, quality modifiers, consumption/failure rules, and result type.
 

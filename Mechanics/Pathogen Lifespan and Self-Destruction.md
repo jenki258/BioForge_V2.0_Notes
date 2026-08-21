@@ -1,6 +1,6 @@
 # Pathogen Lifespan and Self-Destruction
 
-#BioForge #BioForge_V0_54T #Mechanic #Lifecycle #Mutation #Cure #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Lifecycle #Mutation #Cure #ModpackGuide
 
 BioForge distinguishes a general strain lifespan from conditional self-destruction.
 

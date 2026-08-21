@@ -1,6 +1,6 @@
 # Infectivity, Strength, and Cure Resistance
 
-#BioForge #BioForge_V0_54T #Mechanic #Balance #Infection #Vaccine #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Balance #Infection #Vaccine #ModpackGuide
 
 These three values affect different parts of the infection loop.
 

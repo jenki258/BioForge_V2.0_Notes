@@ -1,10 +1,12 @@
-#BioForge #BioForge_V0_54T #Block #LegacyUpdated
+# Microscope
+
+#BioForge #BioForge_V2_0 #Build_V0_54T #Block #LegacyUpdated
 
 > Registry ID: `bioforge:microscope`.
 
 #Blocks
 
-# Microscope
+## Microscope
 
 The **Microscope** is an analytical block that lets players examine biological samples (blood slides, virus samples, bone marrow, etc.) in detail.  
 It reveals the hidden infection data stored on a sample—pathogen type, symptoms, visibility level—but only after a **calibration mini‑game** is successfully completed.

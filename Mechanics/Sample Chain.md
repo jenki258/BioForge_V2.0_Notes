@@ -1,6 +1,6 @@
 # Sample Chain
 
-#BioForge #BioForge_V0_54T #Mechanic #Sample #Laboratory #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Sample #Laboratory #PlayerGuide #ModpackGuide
 
 BioForge deliberately turns a patient or contaminated environment into several research stages.
 

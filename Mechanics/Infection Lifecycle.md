@@ -1,6 +1,6 @@
 # Infection Lifecycle
 
-#BioForge #BioForge_V0_54T #Mechanic #Infection #Lifecycle #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Infection #Lifecycle #ModpackGuide #AddonDevelopment
 
 Every strain can point to an infection lifecycle profile. The profile governs time-dependent behavior that should not be encoded as a symptom or one-off mutation.
 

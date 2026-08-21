@@ -1,6 +1,6 @@
 # Microscope API
 
-#BioForge #BioForge_V0_54T #JavaAPI #JSONAPI #Microscope #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #JavaAPI #JSONAPI #Microscope #AddonDevelopment
 
 Microscope mappings assign sample/input items to displayed symptom/pathogen evidence, textures/icons, calibration targets, visibility rules, and research outputs.
 

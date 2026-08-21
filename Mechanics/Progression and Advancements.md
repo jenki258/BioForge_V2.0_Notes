@@ -1,6 +1,6 @@
 # Progression and Advancements
 
-#BioForge #BioForge_V0_54T #Mechanic #Progression #Advancement #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Progression #Advancement #PlayerGuide #ModpackGuide
 
 V0.54T uses a compact goal-oriented BioForge advancement tree with 21 advancements.
 

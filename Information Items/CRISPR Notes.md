@@ -1,6 +1,6 @@
 # CRISPR Notes
 
-#BioForge #BioForge_V0_54T #Item #CRISPR #Template #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Item #CRISPR #Template #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Registry ID: `bioforge:crispr_notes`.
 

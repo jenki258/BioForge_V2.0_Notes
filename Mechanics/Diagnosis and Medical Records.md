@@ -1,6 +1,6 @@
 # Diagnosis and Medical Records
 
-#BioForge #BioForge_V0_54T #Mechanic #Diagnosis #Clipboard #MedicalReport #PlayerGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Diagnosis #Clipboard #MedicalReport #PlayerGuide
 
 Diagnosis is a multi-tool workflow joined by the Clipboard.
 

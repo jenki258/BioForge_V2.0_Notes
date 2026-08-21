@@ -1,6 +1,6 @@
 # Tissue Secretion
 
-#BioForge #BioForge_V0_54T #Symptom #ClinicalParameter #percentage #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Symptom #ClinicalParameter #percentage #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Definition ID: `bioforge:otoscope_secretion`. Value type: `float`.
 

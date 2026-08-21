@@ -1,4 +1,6 @@
-#BioForge #BioForge_V0_54T #AddonDevelopment #LegacyUpdated
+# Blood Info Storage
+
+#BioForge #BioForge_V2_0 #Build_V0_54T #AddonDevelopment #LegacyUpdated
 
 #Extra
 The mod stores **blood knowledge** per player - a record of which reagents (Anti‑A, Anti‑B, Anti‑D) have been tested on blood from each subject (mob or player). This allows the mod to reveal the blood type on items (needles, bone marrow) only after all three reagents have been tested on that subject.

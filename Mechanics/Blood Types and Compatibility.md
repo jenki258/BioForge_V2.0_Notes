@@ -1,6 +1,6 @@
 # Blood Types and Compatibility
 
-#BioForge #BioForge_V0_54T #Mechanic #BloodType #RhFactor #Vaccine #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #BloodType #RhFactor #Vaccine #PlayerGuide #ModpackGuide
 
 Players and configured humanoids can receive A+, A−, B+, B−, AB+, AB−, O+, or O−. Other blood-bearing creatures normally use animal blood.
 

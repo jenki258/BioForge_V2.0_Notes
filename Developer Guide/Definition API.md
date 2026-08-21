@@ -1,6 +1,6 @@
 # Definition API
 
-#BioForge #BioForge_V0_54T #JavaAPI #JSONAPI #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #JavaAPI #JSONAPI #AddonDevelopment
 
 The definition layer exposes pathogens, symptoms, and transmissions through stable ResourceLocation IDs. JSON supports schema version, ID, aliases, priority, replace, enabled state, typed symptom values, allowed ranges, and behavior references.
 

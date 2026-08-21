@@ -1,6 +1,6 @@
 # Addon Developer Guide
 
-#BioForge #BioForge_V0_54T #AddonDevelopment #JavaAPI #JSONAPI #Datapack
+#BioForge #BioForge_V2_0 #Build_V0_54T #AddonDevelopment #JavaAPI #JSONAPI #Datapack
 
 > Target environment: Minecraft 1.20.1, Forge 47.4.10, Java 17, BioForge addon API version 3.
 
@@ -21,6 +21,6 @@
 - [[Research Tablet API]] — JSON and Java pages, unlocks, item triggers, and recipe views.
 - [[Biological NBT API]] — safe read/write/copy boundaries and obfuscation.
 - [[Addon Compatibility Checklist]] — registration timing, client/server boundaries, validation, and stable IDs.
+- [[Localization and Translation]] — translation keys, resource-pack responsibilities, and known literal fallbacks.
 
 The exhaustive, copy-ready guide remains at [[BioForge addon creation guide]]. The shorter pages above are designed for quick lookup and linking from individual content pages.
-

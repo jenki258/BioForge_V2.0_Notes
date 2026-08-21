@@ -1,6 +1,6 @@
 # Mechanics Index
 
-#BioForge #BioForge_V0_54T #Mechanic #Catalogue #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Catalogue #PlayerGuide #ModpackGuide #AddonDevelopment
 
 ## Infection
 

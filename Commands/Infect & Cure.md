@@ -1,4 +1,6 @@
-#BioForge #BioForge_V0_54T #Command #LegacyUpdated
+# Infect & Cure
+
+#BioForge #BioForge_V2_0 #Build_V0_54T #Command #LegacyUpdated
 
 #Commands
 
@@ -97,16 +99,16 @@ After specifying the basic parameters, you can add a `symptoms` subcommand to se
 ### Examples
 
 ```mcfunction
-# Infect the nearest player with a basic universal infection (contact_based)
+## Infect the nearest player with a basic universal infection (contact_based)
 /bioforge infect @p true
 
-# Infect all zombies with fungi, persistent, environmental spread
+## Infect all zombies with fungi, persistent, environmental spread
 /bioforge infect @e[type=zombie] true fungi true environmental
 
-# Infect yourself with a custom prion strain (food_borne), low oxygen, high neural damage
+## Infect yourself with a custom prion strain (food_borne), low oxygen, high neural damage
 /bioforge infect @s true prion true food_borne symptoms normal normal false true 0 0 0 0 0.1 0.2 0.8 0.70 0.3 0.2 30 80
 
-# Cure all players
+## Cure all players
 /bioforge cure @a
 ```
 

@@ -1,6 +1,6 @@
 # Surface Persistence
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_rare #Pathogen_BACTERIA #Pathogen_FUNGI #Pathogen_VIRUS #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_rare #Pathogen_BACTERIA #Pathogen_FUNGI #Pathogen_VIRUS #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `surface_persistence`. Source: `data/bioforge/mutations/surface_persistence.json`.
 

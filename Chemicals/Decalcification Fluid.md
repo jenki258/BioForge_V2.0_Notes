@@ -1,4 +1,6 @@
-#BioForge #BioForge_V0_54T #Chemical #LegacyUpdated
+# Decalcification Fluid
+
+#BioForge #BioForge_V2_0 #Build_V0_54T #Chemical #LegacyUpdated
 
 > Registry ID: `bioforge:decalcification_fluid`.
 

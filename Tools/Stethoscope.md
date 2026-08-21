@@ -1,4 +1,6 @@
-#BioForge #BioForge_V0_54T #Item #Tool #LegacyUpdated
+# Stethoscope
+
+#BioForge #BioForge_V2_0 #Build_V0_54T #Item #Tool #LegacyUpdated
 
 > Registry ID: `bioforge:stethoscope`.
 

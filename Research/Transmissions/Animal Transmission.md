@@ -1,6 +1,6 @@
 # Animal Transmission
 
-#BioForge #BioForge_V0_54T #Transmission #animals #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Transmission #animals #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Definition ID: `bioforge:animals`. Behaviors: `bioforge:animals`.
 

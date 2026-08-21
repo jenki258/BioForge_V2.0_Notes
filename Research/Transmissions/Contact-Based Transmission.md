@@ -1,6 +1,6 @@
 # Contact-Based Transmission
 
-#BioForge #BioForge_V0_54T #Transmission #contact_based #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Transmission #contact_based #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Definition ID: `bioforge:contact_based`. Behaviors: `bioforge:contact_based`.
 

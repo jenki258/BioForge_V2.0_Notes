@@ -1,6 +1,6 @@
 # Spore Cloud
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_common #Pathogen_FUNGI #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_common #Pathogen_FUNGI #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `spore_cloud`. Source: `data/bioforge/mutations/spore_cloud.json`.
 

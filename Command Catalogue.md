@@ -1,6 +1,6 @@
 # Command Catalogue
 
-#BioForge #BioForge_V0_54T #Command #Administration #Testing #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Command #Administration #Testing #ModpackGuide #AddonDevelopment
 
 BioForge commands are split between normal administration, content validation, development helpers, and destructive test operations. Permission levels are enforced by the command registrations; do not expose operator-only commands to ordinary players without reviewing their effects.
 

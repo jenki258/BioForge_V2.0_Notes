@@ -1,12 +1,5 @@
-#BioForge #BioForge_V0_54T #Wiki #LegacyUpdated
+# The Beginning of BioForge V2.0
 
-[[General mechanics]]
+#BioForge #BioForge_V2_0 #Wiki #Legacy
 
-The original V2 entry page is preserved for old links. The current V0.54T documentation starts at [[Home]].
-
-- [[Player Guide]]
-- [[Item Catalogue]]
-- [[Block and Machine Catalogue]]
-- [[Mechanics Index]]
-- [[Modpack Maker Guide]]
-- [[Addon Developer Guide]]
+This misspelled filename is retained only so old external links do not break. Continue at [[The Beginning of BioForge V2.0]] or [[Home]].

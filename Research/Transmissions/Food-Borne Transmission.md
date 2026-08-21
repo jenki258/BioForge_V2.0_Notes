@@ -1,6 +1,6 @@
 # Food-Borne Transmission
 
-#BioForge #BioForge_V0_54T #Transmission #food_borne #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Transmission #food_borne #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Definition ID: `bioforge:food_borne`. Behaviors: `bioforge:food_borne`.
 

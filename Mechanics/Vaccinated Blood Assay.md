@@ -1,6 +1,6 @@
 # Vaccinated Blood Assay
 
-#BioForge #BioForge_V0_54T #Mechanic #Vaccine #Microscope #Assay #PlayerGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Vaccine #Microscope #Assay #PlayerGuide
 
 The vaccinated-blood assay is the intended way to learn a produced vaccine's combined quality.
 

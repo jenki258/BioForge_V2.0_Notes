@@ -1,6 +1,6 @@
 # Recipe and Tag Compatibility
 
-#BioForge #BioForge_V0_54T #Recipe #Tag #Compatibility #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Recipe #Tag #Compatibility #ModpackGuide #AddonDevelopment
 
 BioForge recipe inputs use tags so equivalent materials from other mods can participate without direct dependencies.
 

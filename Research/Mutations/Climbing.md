@@ -1,6 +1,6 @@
 # Climbing
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_epic #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_epic #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `climbing`. Source: `data/bioforge/mutations/legacy_v1_catalog.json`.
 

@@ -1,6 +1,6 @@
 # Dermal Reinforcement I
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_uncommon #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_uncommon #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `dermal_reinforcement_i`. Source: `data/bioforge/mutations/simple_effect_tiers.json`.
 

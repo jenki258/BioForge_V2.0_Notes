@@ -1,6 +1,6 @@
 # Hypoxic Drift
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_uncommon #Pathogen_VIRUS #Pathogen_BACTERIA #Pathogen_PARASITE #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_uncommon #Pathogen_VIRUS #Pathogen_BACTERIA #Pathogen_PARASITE #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `hypoxic_drift`. Source: `data/bioforge/mutations/hypoxic_drift.json`.
 

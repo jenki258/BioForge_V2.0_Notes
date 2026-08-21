@@ -1,6 +1,6 @@
 # Ceiling Viral Scanner
 
-#BioForge #BioForge_V0_54T #Block #Scanner #Redstone #Containment #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Block #Scanner #Redstone #Containment #PlayerGuide #ModpackGuide
 
 > Registry ID: `bioforge:ceiling_viral_scanner`.
 

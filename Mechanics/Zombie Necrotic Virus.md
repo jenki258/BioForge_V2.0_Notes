@@ -1,6 +1,6 @@
 # Zombie Necrotic Virus
 
-#BioForge #BioForge_V0_54T #Mechanic #NaturalInfection #Zombie #Strain #PlayerGuide #ModpackGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #NaturalInfection #Zombie #Strain #PlayerGuide #ModpackGuide
 
 > Strain ID: `bioforge:zombie_necrotic_virus`.
 

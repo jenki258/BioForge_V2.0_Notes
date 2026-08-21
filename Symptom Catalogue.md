@@ -1,6 +1,6 @@
 # Symptom Catalogue
 
-#BioForge #BioForge_V0_54T #Symptom #Catalogue #Diagnosis #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Symptom #Catalogue #Diagnosis #ModpackGuide #AddonDevelopment
 
 V0.54T contains **17 typed built-in clinical parameters**. Mutation-defined coughing, sneezing, diet restrictions, and potion-like penalties are documented as mutations because they are not entries in this typed symptom registry.
 

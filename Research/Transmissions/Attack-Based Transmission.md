@@ -1,6 +1,6 @@
 # Attack-Based Transmission
 
-#BioForge #BioForge_V0_54T #Transmission #attack_based #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Transmission #attack_based #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Definition ID: `bioforge:attack_based`. Behaviors: `bioforge:attack_based`.
 

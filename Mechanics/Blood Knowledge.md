@@ -1,6 +1,6 @@
 # Blood Knowledge
 
-#BioForge #BioForge_V0_54T #Mechanic #Blood #Knowledge #Persistence #Command #PlayerGuide
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mechanic #Blood #Knowledge #Persistence #Command #PlayerGuide
 
 Blood Knowledge is per-player remembered diagnostic data about specific entity subjects.
 

@@ -1,4 +1,6 @@
-#BioForge #BioForge_V0_54T #Item #Research #LegacyUpdated
+# Cell Pellet
+
+#BioForge #BioForge_V2_0 #Build_V0_54T #Item #Research #LegacyUpdated
 
 > Registry ID: `bioforge:cell_pellet`.
 

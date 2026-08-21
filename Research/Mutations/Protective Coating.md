@@ -1,6 +1,6 @@
 # Protective Coating
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_epic #Pathogen_BACTERIA #Pathogen_FUNGI #Pathogen_PRION #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_epic #Pathogen_BACTERIA #Pathogen_FUNGI #Pathogen_PRION #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `protective_coating`. Source: `data/bioforge/mutations/protective_coating.json`.
 

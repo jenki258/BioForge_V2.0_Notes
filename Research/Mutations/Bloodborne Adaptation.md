@@ -1,6 +1,6 @@
 # Bloodborne Adaptation
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_uncommon #Pathogen_BACTERIA #Pathogen_FUNGI #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_uncommon #Pathogen_BACTERIA #Pathogen_FUNGI #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `bloodborne`. Source: `data/bioforge/mutations/bloodborne.json`.
 

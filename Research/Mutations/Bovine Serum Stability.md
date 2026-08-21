@@ -1,6 +1,6 @@
 # Bovine Serum Stability
 
-#BioForge #BioForge_V0_54T #Mutation #Rarity_legendary #Pathogen_BACTERIA #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
+#BioForge #BioForge_V2_0 #Build_V0_54T #Mutation #Rarity_legendary #Pathogen_BACTERIA #Pathogen_UNIVERSAL #PlayerGuide #ModpackGuide #AddonDevelopment
 
 > Mutation ID: `bovine_serum_stability`. Source: `data/bioforge/mutations/wild_host_mutations.json`.
 
