@@ -19,4 +19,6 @@ Effects may run on apply, continuously at an interval/chance, or on removal. Bui
 ## Data safety
 
 Invalid effect definitions are rejected rather than silently becoming broken runtime behavior. See [[Mutation Catalogue]], [[Mutation API]], and [[Testing and Validation]].
+# 2.1 update
 
+Mutation Upgrade Vaccine can raise a selected mutation tier, while the random upgrade variant chooses an eligible mutation from the infection. Universal strains support the full mutation catalogue; addon definitions remain data-driven.

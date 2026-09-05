@@ -21,4 +21,6 @@ The bundled tablet covers diagnosis, blood, sample handling, lifecycle, routes, 
 JSON pages live under `research_journal`; Java pages and recipe views register through the public API. Addon recipe references can target crafting, laboratory processors, Centrifuge, Incubator, or Vaccine Maker operations.
 
 Related: [[Research Journal]], [[Research Tablet API]], [[JEI and Recipe Discovery]].
+# 2.1 update
 
+The tablet keeps its guide pages while omitting low-value component-only cards from the default item index. Recipe entries use structured ingredient/output slots, and acquisition text must match the real chain (bone marrow via centrifuge; withered bone marrow via decalcification fluid).
