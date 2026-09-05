@@ -46,3 +46,6 @@ Bone Marrow can be used **exactly like a bloody needle** to test blood type with
 
 - **Withered Bone Marrow** is obtained from Withered Split Bone via Decalcification Fluid (not the Centrifuge). It also works with reagents, but its processing path is different.
 - Both types of marrow serve the same purpose: they allow blood typing without a needle.
+# 2.1 correction
+
+Normal bone marrow is produced in the centrifuge from the appropriate split-bone input. It is not made with decalcification fluid.

@@ -52,3 +52,6 @@ Withered Bone Marrow can be used **exactly like a bloody needle or normal Bone M
 - **Withered Bone Marrow** is obtained from Withered Split Bone via Decalcification Fluid.
 - Both serve the same purpose: they allow blood typing without a needle.
 - The only difference is the processing method.
+# 2.1 correction
+
+Withered bone marrow is produced from withered split bone using decalcification fluid. Keep this acquisition path separate from the normal bone-marrow centrifuge recipe.
