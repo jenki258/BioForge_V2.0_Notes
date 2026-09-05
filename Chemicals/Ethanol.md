@@ -42,4 +42,6 @@ It is made from Wine Must and can clean compatible empty medical tools.
 - [[Progression and Advancements]]
 - [[Recipe and Tag Compatibility]]
 - [[NBT Obfuscation and Biological Data]]
+# 2.1 update
 
+Ethanol coating protects supported BioForge blocks from pathogen contamination and creates a short-range protection halo around the coated block. The wiki should clearly distinguish this from the active decontamination flask and from the passive Air Vent.
